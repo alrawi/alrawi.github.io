@@ -14,7 +14,7 @@ Omar Alrawi is pursuing a PhD in ECE at Georgia Tech. He has a CS and Math BS de
 - Project/people managment; mentoring, team lead, SME, consulting, training
 
 ### Publication 
-1.  __Omar Alrawi*__, Aziz Mohaisen*; [Chains of Distrust: Towards Understanding Certificates Used for Signing Malicious Applications](/static/papers/malcert.pdf), WWW 2016 Companion, April 2016
+1.  __Omar Alrawi__**, Aziz Mohaisen**; [Chains of Distrust: Towards Understanding Certificates Used for Signing Malicious Applications](/static/papers/malcert.pdf), WWW 2016 Companion, April 2016
 1.  __Omar Alrawi*__, Aziz Mohaisen*; [Behavior-based Automated Malware Analysis and Classification](/static/papers/15-cose.pdf), Elsevier Computers & Security, 2015
 2. A Mohaisen, AG West, A Mankin, __O Alrawi__; [Chatter: Classifying Malware Families Using System Event Ordering.](/static/papers/chatter-tr.pdf)  IEEE CNS 2014 
 3. __Omar Alrawi*__, Aziz Mohaisen*; [AMAL: High-Fidelity, Behavior-based Automated Malware Analysis and Classification.](/static/papers/amal-wisa14.pdf)  WISA 2014. Best Paper. 
