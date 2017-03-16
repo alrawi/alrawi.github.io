@@ -8,7 +8,7 @@ Omar Alrawi is pursuing a PhD in ECE at Georgia Tech. He has a CS and Math BS de
 ### SKILLS
 - Specialization; Malware analysis and reverse engineering
 - Programming; Python, C/C++, Java, etc.
-- Data science; ML, numpy/scipy, scikit-learn, Theano, matplotlib
+- Data science; ML, numpy/scipy, scikit-learn, Keras, TensorFlow, gnuplot
 - Design and architcture; software and infrastructure
 - System engineering and administration; Linux, Virtualization, Docker, salt
 - Project/people managment; mentoring, team lead, SME, consulting, training
