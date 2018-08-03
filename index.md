@@ -14,9 +14,10 @@ Omar Alrawi is pursuing a PhD in ECE at Georgia Tech. He has a CS and Math BS de
 - Project/people managment; mentoring, team lead, SME, consulting, training
 
 ### Publication 
-1.  __Omar Alrawi__, Aziz Mohaisen; [Chains of Distrust: Towards Understanding Certificates Used for Signing Malicious Applications](/static/papers/malcert.pdf), WWW 2016 Companion, April 2016
-1.  __{::nomarkdown}Omar Alrawi*{:/}__, {::nomarkdown}Aziz Mohaisen*{:/}; [Behavior-based Automated Malware Analysis and Classification](/static/papers/15-cose.pdf), Elsevier Computers & Security, 2015
-2. A Mohaisen, AG West, A Mankin, __O Alrawi__; [Chatter: Classifying Malware Families Using System Event Ordering.](/static/papers/chatter-tr.pdf)  IEEE CNS 2014 
+1.  __Omar Alrawi__, Chaz Lever, Manos Antonakakis, Fabian Monrose; [SoK: Security Evaluation of Home-Based IoT Deployments](), To appear in IEEE S&P, May 2019.
+1.  __Omar Alrawi__, Aziz Mohaisen; [Chains of Distrust: Towards Understanding Certificates Used for Signing Malicious Applications](/static/papers/malcert.pdf), WWW 2016 Companion, April 2016.
+1.  __{::nomarkdown}Omar Alrawi*{:/}__, {::nomarkdown}Aziz Mohaisen*{:/}; [Behavior-based Automated Malware Analysis and Classification](/static/papers/15-cose.pdf), Elsevier Computers & Security, 2015.
+2. A Mohaisen, AG West, A Mankin, __O Alrawi__; [Chatter: Classifying Malware Families Using System Event Ordering.](/static/papers/chatter-tr.pdf)  IEEE CNS 2014.
 3. __{::nomarkdown}Omar Alrawi*{:/}__, {::nomarkdown}Aziz Mohaisen*{:/}; [AMAL: High-Fidelity, Behavior-based Automated Malware Analysis and Classification.](/static/papers/amal-wisa14.pdf)  WISA 2014. Best Paper. 
 4. __{::nomarkdown}Omar Alrawi*{:/}__, {::nomarkdown}Aziz Mohaisen*{:/}; [AV-Meter: An Evaluation of Antivirus Scans and Labels.](/static/papers/avmeter-dimva.pdf)  DIMVA 2014.
 5. Aziz Mohaisen, __Omar Alrawi__, Andrew G. West, and Allison Mankin; [Babble: Identifying Malware by Its Dialects.](/static/papers/babble-cns13.pdf)  IEEE CNS 2013.
