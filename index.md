@@ -5,13 +5,10 @@ layout: default
 ### Bio
 Omar Alrawi is pursuing a PhD in ECE at Georgia Tech. He has a CS and Math BS degree and a Master's in __Info Sec__. He enjoys working on interesting problems pertaining to security and large datasets. He is a tech enthusiast and his passion lies in the intersection of different sciences and math. 
 
-### SKILLS
-- Specialization; Malware analysis and reverse engineering
-- Programming; Python, C/C++, Java, etc.
-- Data science; ML, numpy/scipy, scikit-learn, Keras, TensorFlow, gnuplot
-- Design and architcture; software and infrastructure
-- System engineering and administration; Linux, Virtualization, Docker, salt
-- Project/people managment; mentoring, team lead, SME, consulting, training
+### Education
+- __Georgia Institute of Technology__, PhD in ECE (enrolled)
+- __Purdue University__, Master's of Information Security (CERIAS) 2009
+- __Purdue University__, Bachelor of Science, Computer Science and Mathematics 2007
 
 ### Publication 
 1.  __Omar Alrawi__, Chaz Lever, Manos Antonakakis, Fabian Monrose; [SoK: Security Evaluation of Home-Based IoT Deployments](/static/papers/alrawi_sok_sp19.pdf), To appear in IEEE S&P, May 2019.
@@ -29,15 +26,18 @@ Omar Alrawi is pursuing a PhD in ECE at Georgia Tech. He has a CS and Math BS de
 ### Patents
 - [Systems and methods for behavior-based automated malware analysis and classification](https://www.google.com/patents/US20150244733)
 
-### Education
-- __Georgia Institute of Technology__, PhD in ECE (enrolled)
-- __Purdue University__, Master's of Information Security (CERIAS) 2009
-- __Purdue University__, Bachelor of Science, Computer Science and Mathematics 2007
-
 ### Experience 
 - Sr. Engineer, __Qatar Computing Research Institute__, 2013-2016
 - Security Engineer - Security Intelligence, __VeriSign - iDefense__, 2011-2013
 - Consultant, __Booz Allen Hamilton__, 2009-2011
 - Web Application Developer, __Purdue Univeristy Graduate School__, 2007-2009
 - Internship - IT Engineer, __Cisco Systems__, Summer 2008
+
+### SKILLS
+- Specialization; Malware analysis and reverse engineering
+- Programming; Python, C/C++, Java, etc.
+- Data science; ML, numpy/scipy, scikit-learn, Keras, TensorFlow, gnuplot
+- Design and architcture; software and infrastructure
+- System engineering and administration; Linux, Virtualization, Docker, salt
+- Project/people managment; mentoring, team lead, SME, consulting, training
 
