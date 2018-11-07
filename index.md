@@ -7,7 +7,7 @@ layout: default
 I am a PhD student at Georgia Tech in the ECE department. 
 I am interested in using data mining and data analytic techniques to augment system and network artifacts for security applications.
 I am researching and measuring home-based smart device security through systematic evaluation.
-I am also working on understanding malware threats that target these devices face through system and network artifacts.
+I am also working on understanding malware threats that target these devices through system and network analysis.
 
 
 ### Education
