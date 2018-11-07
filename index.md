@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[#### Curriculum Vitae (CV)](/static/oalrawi_cv.pdf)
+#### [Curriculum Vitae (CV)](/static/oalrawi_cv.pdf)
 
 ### About
 I am a PhD student at Georgia Tech in the ECE department. 
