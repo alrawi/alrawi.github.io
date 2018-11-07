@@ -1,9 +1,14 @@
 ---
 layout: default
 ---
+[#### Curriculum Vitae (CV)](/static/oalrawi_cv.pdf)
 
-### Bio
-Omar Alrawi is pursuing a PhD in ECE at Georgia Tech. He has a CS and Math BS degree and a Master's in __Info Sec__. He enjoys working on interesting problems pertaining to security and large datasets. He is a tech enthusiast and his passion lies in the intersection of different sciences and math. 
+### About
+I am a PhD student at Georgia Tech in the ECE department. 
+I am interested in using data mining and data analytic techniques to augment system and network artifacts for security applications.
+I am researching and measuring home-based smart device security through systematic evaluation.
+I am also working on understanding malware threats that target these devices face through system and network artifacts.
+
 
 ### Education
 - __Georgia Institute of Technology__, PhD in ECE (enrolled)
@@ -11,6 +16,7 @@ Omar Alrawi is pursuing a PhD in ECE at Georgia Tech. He has a CS and Math BS de
 - __Purdue University__, Bachelor of Science, Computer Science and Mathematics 2007
 
 ### Publication 
+1. R. Duan, A. Bijlani, Y. Ji, __O. Alrawi__, Y. Xiong, M. Ike, B. Saltaformaggio, W. Lee; [Automating Patching of Vulnerable Open-Source Software Versions in Application Binaries](/#), to appear in NDSS, Feb 2019
 1.  __Omar Alrawi__, Chaz Lever, Manos Antonakakis, Fabian Monrose; [SoK: Security Evaluation of Home-Based IoT Deployments](/static/papers/alrawi_sok_sp19.pdf), To appear in IEEE S&P, May 2019.
 1.  __Omar Alrawi__, Aziz Mohaisen; [Chains of Distrust: Towards Understanding Certificates Used for Signing Malicious Applications](/static/papers/malcert.pdf), WWW 2016 Companion, April 2016.
 1. Aziz Mohaisen, __Omar Alrawi__; [Behavior-based Automated Malware Analysis and Classification](/static/papers/15-cose.pdf), Elsevier Computers & Security, 2015.
@@ -24,13 +30,6 @@ Omar Alrawi is pursuing a PhD in ECE at Georgia Tech. He has a CS and Math BS de
 
 ### Patents
 - [Systems and methods for behavior-based automated malware analysis and classification](https://www.google.com/patents/US20150244733)
-
-### Experience 
-- Sr. Engineer, __Qatar Computing Research Institute__, 2013-2016
-- Security Engineer - Security Intelligence, __VeriSign - iDefense__, 2011-2013
-- Consultant, __Booz Allen Hamilton__, 2009-2011
-- Web Application Developer, __Purdue Univeristy Graduate School__, 2007-2009
-- Internship - IT Engineer, __Cisco Systems__, Summer 2008
 
 ### SKILLS
 - Specialization; Malware analysis and reverse engineering
