@@ -17,7 +17,7 @@ I am also working on understanding malware threats that target these devices thr
 
 ### Publication 
 1. R. Duan, A. Bijlani, Y. Ji, __O. Alrawi__, Y. Xiong, M. Ike, B. Saltaformaggio, W. Lee; [Automating Patching of Vulnerable Open-Source Software Versions in Application Binaries](/#), to appear in NDSS, Feb 2019
-1.  __Omar Alrawi__, Chaz Lever, Manos Antonakakis, Fabian Monrose; [SoK: Security Evaluation of Home-Based IoT Deployments](/static/papers/alrawi_sok_sp19.pdf), To appear in IEEE S&P, May 2019.
+1.  __Omar Alrawi__, Chaz Lever, Manos Antonakakis, Fabian Monrose; [SoK: Security Evaluation of Home-Based IoT Deployments](/static/papers/alrawi_sok_sp19.pdf), To appear in IEEE S&P, May 2019. ([slides](/static/papers/slides_sok_sp_19.pdf))
 1.  __Omar Alrawi__, Aziz Mohaisen; [Chains of Distrust: Towards Understanding Certificates Used for Signing Malicious Applications](/static/papers/malcert.pdf), WWW 2016 Companion, April 2016.
 1. Aziz Mohaisen, __Omar Alrawi__; [Behavior-based Automated Malware Analysis and Classification](/static/papers/15-cose.pdf), Elsevier Computers & Security, 2015.
 2. A Mohaisen, AG West, A Mankin, __O Alrawi__; [Chatter: Classifying Malware Families Using System Event Ordering.](/static/papers/chatter-tr.pdf)  IEEE CNS 2014.
