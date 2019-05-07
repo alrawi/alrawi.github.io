@@ -16,9 +16,9 @@ I am also working on understanding malware threats that target these devices thr
 - __Purdue University__, Bachelor of Science, Computer Science and Mathematics 2007
 
 ### Publication 
-1. __Omar Alrawi__&ast;, Chaoshun Zuo&ast;, Ruian Duan, Ranjita Kasturi, Zhiqiang Lin, Brendan Saltaformaggio; [The Betrayal At Cloud City: An Empirical Analysis Of Cloud-Based Mobile Backends](/static/papers/alrawi_betrayal_sec19.pdf), USENIX Security, August 2019.
-1.  __Omar Alrawi__, Chaz Lever, Manos Antonakakis, Fabian Monrose; [SoK: Security Evaluation of Home-Based IoT Deployments](/static/papers/alrawi_sok_sp19.pdf), IEEE S&P, May 2019. ([slides-long version](/static/papers/slides_sok_sp_19.pdf))
-1. R. Duan, A. Bijlani, Y. Ji, __O. Alrawi__, Y. Xiong, M. Ike, B. Saltaformaggio, W. Lee; [Automating Patching of Vulnerable Open-Source Software Versions in Application Binaries](/#), NDSS, Feb 2019
+1. __Omar Alrawi__{::nomarkdown}*{:/}, Chaoshun Zuo{::nomarkdown}*{:/}, Ruian Duan, Ranjita Kasturi, Zhiqiang Lin, Brendan Saltaformaggio; [The Betrayal At Cloud City: An Empirical Analysis Of Cloud-Based Mobile Backends](/static/papers/alrawi_betrayal_sec19.pdf), USENIX Security, August 2019.
+1.  __Omar Alrawi__, Chaz Lever, Manos Antonakakis, Fabian Monrose; [SoK: Security Evaluation of Home-Based IoT Deployments](/static/papers/alrawi_sok_sp19.pdf), IEEE S&P, May 2019. ([slides-long](/static/slides/M3AAWG_iot_feb_2019.pdf)) ([slides-short](/static/slides/IEEESP_iot_may_2019.pdf))
+1. R. Duan, A. Bijlani, Y. Ji, __O. Alrawi__, Y. Xiong, M. Ike, B. Saltaformaggio, W. Lee; [Automating Patching of Vulnerable Open-Source Software Versions in Application Binaries](/static/papers/duan_osspatch_ndss19.pdf), NDSS, Feb 2019
 1.  __Omar Alrawi__, Aziz Mohaisen; [Chains of Distrust: Towards Understanding Certificates Used for Signing Malicious Applications](/static/papers/malcert.pdf), WWW 2016 Companion, April 2016.
 1. Aziz Mohaisen, __Omar Alrawi__; [Behavior-based Automated Malware Analysis and Classification](/static/papers/15-cose.pdf), Elsevier Computers & Security, 2015.
 2. A Mohaisen, AG West, A Mankin, __O Alrawi__; [Chatter: Classifying Malware Families Using System Event Ordering.](/static/papers/chatter-tr.pdf)  IEEE CNS 2014.
