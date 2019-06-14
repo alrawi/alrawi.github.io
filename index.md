@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[here](https://docs.google.com/presentation/d/1-PJeWIDFeDK9zlE9W6ZQu8A30EwwP3YSlOGleZ3a8G0/edit?usp=sharing)
+
 #### [Curriculum Vitae (CV)](/static/oalrawi_cv.pdf)
 
 ### About
