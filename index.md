@@ -41,3 +41,28 @@ I am also working on understanding malware threats that target these devices thr
 - System engineering and administration; Linux, Virtualization, Docker, salt
 - Project/people managment; mentoring, team lead, SME, consulting, training
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+links
+```
+https://patents.google.com/patent/US20130031037
+https://patents.google.com/patent/US20160315955
+https://patents.google.com/patent/US20170208077A1/en
+https://patents.google.com/patent/US9717012B2/en
+https://patents.google.com/patent/US20070182543
+https://patents.google.com/patent/US8336080
+https://patents.google.com/patent/WO2017161457A1/en
+https://patents.google.com/patent/US20140098247
+```
