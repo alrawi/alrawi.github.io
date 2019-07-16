@@ -41,7 +41,7 @@ I am also working on understanding malware threats that target these devices thr
 - System engineering and administration; Linux, Virtualization, Docker, salt
 - Project/people managment; mentoring, team lead, SME, consulting, training
 
-
+https://gtvault-my.sharepoint.com/:w:/g/personal/oalrawi3_gatech_edu/EeI0LgEcHudEhg2mg5TviN4BtPW9I9obQYjhujybWnPR5A?e=7cJlGF
 
 
 
