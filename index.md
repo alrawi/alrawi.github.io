@@ -24,7 +24,7 @@ I am also working on understanding malware threats that target these devices thr
 - First Place in Institute for Information Security & Privacy Demo Day (Best Idea) - 2018 [press](https://www.scs.gatech.edu/news/613110/school-computer-science-students-dominate-demo-day), [press](https://cyber.gatech.edu/cyber-demo-day)
   * Award: $5,000
 - President Fellowship - 2016-2020
-  * Award: $5,000
+  * Award: $5,000/year
 
 ### Publication 
 1. __Omar Alrawi__{::nomarkdown}*{:/}, Chaoshun Zuo{::nomarkdown}*{:/}, Ruian Duan, Ranjita Kasturi, Zhiqiang Lin, Brendan Saltaformaggio; [The Betrayal At Cloud City: An Empirical Analysis Of Cloud-Based Mobile Backends](/static/papers/alrawi_cloudcity_sec19.pdf), USENIX Security, August 2019. 
@@ -34,9 +34,9 @@ I am also working on understanding malware threats that target these devices thr
 1. __Omar Alrawi__, Chaz Lever, Manos Antonakakis, Fabian Monrose; [SoK: Security Evaluation of Home-Based IoT Deployments](/static/papers/alrawi_sok_sp19.pdf), IEEE S&P (Oakland), May 2019. 
   * [slides-long](/static/slides/M3AAWG_iot_feb_2019.pdf)
   * [slides-short](/static/slides/IEEESP_iot_may_2019.pdf)
-  * [One min Preview](https://www.youtube.com/watch?v=-KCia-uTr-8) <span style="color:red">__VIDEO__</span>
-  * [Conf. Presentation](https://www.youtube.com/watch?v=Yg807tkRSZ8) <span style="color:red">__VIDEO__</span>
   * [website](https://yourthings.info)
+  * <span style="color:red">__VIDEO__</span>: [One min Preview](https://www.youtube.com/watch?v=-KCia-uTr-8) 
+  * <span style="color:red">__VIDEO__</span>: [Conf. Presentation](https://www.youtube.com/watch?v=Yg807tkRSZ8) 
   * <span style="color:red">__MEDIA__</span>: [Tech Republic](https://www.techrepublic.com/article/learn-how-insecure-your-iot-devices-are-with-yourthings-scorecards/), [Machine Design](https://www.machinedesign.com/iot/engineers-evaluate-consumer-iot-devices-security-risks), [Futurity](https://www.futurity.org/internet-connected-devices-security-risks-website-2150812/), [Fierce Elec.](https://www.fierceelectronics.com/electronics/thinking-about-iot-device-for-your-home-check-security-first), [Tech Xplore](https://techxplore.com/news/2019-09-website-internet-connected-devices.html), [Computer Welt](https://computerwelt.at/news/webseite-bewertet-sicherheit-von-iot-geraeten/)
 1. R. Duan, A. Bijlani, Y. Ji, __O. Alrawi__, Y. Xiong, M. Ike, B. Saltaformaggio, W. Lee; [Automating Patching of Vulnerable Open-Source Software Versions in Application Binaries](/static/papers/duan_osspatch_ndss19.pdf), NDSS, Feb 2019
 1. __Omar Alrawi__, Aziz Mohaisen; [Chains of Distrust: Towards Understanding Certificates Used for Signing Malicious Applications](/static/papers/malcert.pdf), WWW 2016 Companion, April 2016.
