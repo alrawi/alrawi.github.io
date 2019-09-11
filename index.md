@@ -16,6 +16,16 @@ I am also working on understanding malware threats that target these devices thr
 - __Purdue University__, Master's of Information Security (CERIAS) 2009
 - __Purdue University__, Bachelor of Science, Computer Science and Mathematics 2007
 
+### Honors & Awards
+- Create-X Launch Participant and Finalist - 2019 [video](https://vimeo.com/354891611#t=187m36s)
+  * Award: $4,000
+- First Place in Cyber Security Demo Day (Research Track) - 2019 [press](http://iisp.gatech.edu/demo-day-event-recap)
+  * Award: $4,000
+- First Place in Institute for Information Security & Privacy Demo Day (Best Idea) - 2018 [press](https://www.scs.gatech.edu/news/613110/school-computer-science-students-dominate-demo-day), [press](https://cyber.gatech.edu/cyber-demo-day)
+  * Award: $5,000
+- President Fellowship - 2016-2020
+  * Award: $5,000
+
 ### Publication 
 1. __Omar Alrawi__{::nomarkdown}*{:/}, Chaoshun Zuo{::nomarkdown}*{:/}, Ruian Duan, Ranjita Kasturi, Zhiqiang Lin, Brendan Saltaformaggio; [The Betrayal At Cloud City: An Empirical Analysis Of Cloud-Based Mobile Backends](/static/papers/alrawi_cloudcity_sec19.pdf), USENIX Security, August 2019. 
   * [slides](/static/slides/USESEC_cloudcity_aug_19.pdf)
@@ -32,7 +42,7 @@ I am also working on understanding malware threats that target these devices thr
 1. __Omar Alrawi__, Aziz Mohaisen; [Chains of Distrust: Towards Understanding Certificates Used for Signing Malicious Applications](/static/papers/malcert.pdf), WWW 2016 Companion, April 2016.
 1. Aziz Mohaisen, __Omar Alrawi__; [Behavior-based Automated Malware Analysis and Classification](/static/papers/15-cose.pdf), Elsevier Computers & Security, 2015.
 2. A Mohaisen, AG West, A Mankin, __O Alrawi__; [Chatter: Classifying Malware Families Using System Event Ordering.](/static/papers/chatter-tr.pdf)  IEEE CNS 2014.
-3. Aziz Mohaisen, __Omar Alrawi__; [AMAL: High-Fidelity, Behavior-based Automated Malware Analysis and Classification.](/static/papers/amal-wisa14.pdf)  WISA 2014. Best Paper. 
+3. Aziz Mohaisen, __Omar Alrawi__; [AMAL: High-Fidelity, Behavior-based Automated Malware Analysis and Classification.](/static/papers/amal-wisa14.pdf)  WISA 2014. <span style="color:red">Best Paper Award</span>. 
 4. Aziz Mohaisen, __Omar Alrawi__,; [AV-Meter: An Evaluation of Antivirus Scans and Labels.](/static/papers/avmeter-dimva.pdf)  DIMVA 2014.
 5. Aziz Mohaisen, __Omar Alrawi__, Andrew G. West, and Allison Mankin; [Babble: Identifying Malware by Its Dialects.](/static/papers/babble-cns13.pdf)  IEEE CNS 2013.
 6. Aziz Mohaisen, __Omar Alrawi__, Matt Larson, and Danny McPherson; [Towards A Methodical Evaluation of Antivirus Scans and Labels.](/static/papers/wisa2013labels.pdf) WISA 2013.
