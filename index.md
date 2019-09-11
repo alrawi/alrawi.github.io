@@ -5,11 +5,9 @@ layout: default
 #### [Curriculum Vitae (CV)](/static/oalrawi_cv.pdf)
 
 ### About
-I am a PhD student at Georgia Tech in the ECE department. 
-I am interested in using data mining and data analytic techniques to augment system and network artifacts for security applications.
-I am researching and measuring home-based smart device security through systematic evaluation.
-I am also working on understanding malware threats that target these devices through system and network analysis.
-
+I am an ECE Ph.D. student at Georgia Tech advised by [Dr. Antonakakis](https://sites.google.com/site/antonakakis/).
+I work on the security of home-based IoT devices, mobile apps, cloud backends, and network security using active and passive techniques. 
+Additionally, I am investigating malware threats affecting IoT, mobile apps, and cloud backends.
 
 ### Education
 - __Georgia Institute of Technology__, PhD in ECE (enrolled)
