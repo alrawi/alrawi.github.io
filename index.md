@@ -15,6 +15,7 @@ Additionally, I am investigating malware threats affecting IoT, mobile apps, and
 - __Purdue University__, Bachelor of Science, Computer Science and Mathematics 2007
 
 ### Honors & Awards
+- CSAW’19 Applied Research Competition Finalist (The Betrayal At Cloud City)
 - Create-X Launch Participant and Finalist - 2019 [video](https://vimeo.com/354891611#t=187m36s)
   * Award: $4,000
 - First Place in Cyber Security Demo Day (Research Track) - 2019 [press](http://iisp.gatech.edu/demo-day-event-recap)
