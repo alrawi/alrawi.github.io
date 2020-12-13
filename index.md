@@ -25,14 +25,6 @@ Additionally, I am investigating malware threats affecting IoT, mobile apps, and
 - President Fellowship - 2016-2020
   * Award: $5,000/year
 
-Omar Alrawi (Georgia Institute of Technology) <alrawi@gatech.edu>
-Charles Lever (Georgia Institute of Technology) <chazlever@gatech.edu>
-Kevin Valakuzhy (Georgia Institute of Technology) <kevinv@gatech.edu>
-Ryan Court (Zero Point Dynamics) <rccourt@zeropointdynamics.com>
-Kevin Snow (Zero Point Dynamics) <kevin@zeropointdynamics.com>
-Fabian Monrose (University of North Carolina-Chapel Hill) <fabian@cs.unc.edu>
-Manos Antonakakis (Georgia Institute of Technology) <manos@gatech.edu>
-
 ### Publication 
 1. __Omar Alrawi__, Charles Lever, Kevin Valakuzhy, Ryan Court, Kevin Snow, Fabian Monrose, Manos Antonakakis; [The Circle Of Life: A Large-Scale Study of The IoT Malware Lifecycle](#), USENIX Security, August 2021.
 1. __Omar Alrawi__{::nomarkdown}*{:/}, Moses Ike{::nomarkdown}*{:/}, Matthew Pruett, Ranjita Pai Kasturi, Srimanta Barua, Taleb Hirani, Brennan Hill, Brendan Saltaformaggio; [Forecasting Malware Capabilities From Cyber Attack Memory Images](/static/papers/alrawi_forecast_sec21.pdf), USENIX Security, August 2021. 
