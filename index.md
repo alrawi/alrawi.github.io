@@ -1,15 +1,6 @@
 ---
 layout: default
 ---
-This is a test to show Israa how netlify works
-
-1. item one 
-2. item two 
-
-## abc H2
-hahaha 
-
-
 #### [Curriculum Vitae (CV)](/static/oalrawi_cv.pdf)
 
 ### About
