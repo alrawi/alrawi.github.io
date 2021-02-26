@@ -26,7 +26,7 @@ Additionally, I am investigating malware threats affecting IoT, mobile apps, and
 
 ### Publication 
 1. __Omar Alrawi__, Charles Lever, Kevin Valakuzhy, Ryan Court, Kevin Snow, Fabian Monrose, Manos Antonakakis; [The Circle Of Life: A Large-Scale Study of The IoT Malware Lifecycle (pre-print)](/static/papers/alrawi_iot-malware_sec21.pdf), USENIX Security, August 2021.
-  * [BadThings.info](https://badthings.info/)
+  * [website](https://badthings.info/)
 1. __Omar Alrawi__{::nomarkdown}*{:/}, Moses Ike{::nomarkdown}*{:/}, Matthew Pruett, Ranjita Pai Kasturi, Srimanta Barua, Taleb Hirani, Brennan Hill, Brendan Saltaformaggio; [Forecasting Malware Capabilities From Cyber Attack Memory Images (pre-print)](/static/papers/alrawi_forecast_sec21.pdf), USENIX Security, August 2021. 
   * [code](https://github.com/CyFI-Lab-Public/Forecast)
 1. R. Duan, __O. Alrawi__, R. P Kasturi, R. Elder, B. Saltaformaggio, W. Lee. [Measuring and preventing supply chain attacks on package managers](/#) To appear in NDSS 2021.
