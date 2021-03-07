@@ -30,7 +30,7 @@ Additionally, I am investigating malware threats affecting IoT, mobile apps, and
 1. __Omar Alrawi__{::nomarkdown}*{:/}, Moses Ike{::nomarkdown}*{:/}, Matthew Pruett, Ranjita Pai Kasturi, Srimanta Barua, Taleb Hirani, Brennan Hill, Brendan Saltaformaggio; [Forecasting Malware Capabilities From Cyber Attack Memory Images (pre-print)](/static/papers/alrawi_forecast_sec21.pdf), USENIX Security, August 2021. 
   * [code](https://github.com/CyFI-Lab-Public/Forecast)
 1. R. Duan, __O. Alrawi__, R. P Kasturi, R. Elder, B. Saltaformaggio, W. Lee. [Measuring and preventing supply chain attacks on package managers](/static/papers/supply-chain-NDSS21.pdf) To appear in NDSS 2021.
-  * [bibtex] (https://scholar.googleusercontent.com/citations?view_op=export_citations&user=94a6cB4AAAAJ&citsig=AMD79ooAAAAAYEYqWBqIfONHZKF0XVXOFC1e6TjKKbO2&hl=en)
+  * [bibtex](https://scholar.googleusercontent.com/citations?view_op=export_citations&user=94a6cB4AAAAJ&citsig=AMD79ooAAAAAYEYqWBqIfONHZKF0XVXOFC1e6TjKKbO2&hl=en)
 3. R. Perdisci, T. Papastergiu, __O. Alrawi__, M. Antonakakis. [IoTFinder: Efficient Large-Scale Identification of IoT Devices via Passive DNS Traffic Analysis](/static/papers/IoTFinder-ESP20.pdf), EuroS&P, Septmber 2020
   * [data](https://yourthings.info/data)
 4. R. P Kasturi, Y. Sun, R. Duian, __O. Alrawi__, E. Asdar, V. Zhu, Y. Kwon, B. Saltaformaggio; [TARDIS: Rolling Back The Clock On CMS-Targeting Cyber Attacks](/static/papers/kasturi_tardis_sp20.pdf), IEEE S&P (Oakland), May 2020.
