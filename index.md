@@ -67,7 +67,3 @@ Additionally, I am investigating malware threats affecting IoT, mobile apps, and
 - Design and architcture; software and infrastructure
 - System engineering and administration; Linux, Virtualization, Docker, salt
 - Project/people managment; mentoring, team lead, SME, consulting, training
-
-
-
-[for me](/static/AssTities.vcf)
