@@ -29,7 +29,7 @@ Additionally, I am investigating malware threats affecting IoT, mobile apps, and
   * [website](https://badthings.info/)
 1. __Omar Alrawi__{::nomarkdown}*{:/}, Moses Ike{::nomarkdown}*{:/}, Matthew Pruett, Ranjita Pai Kasturi, Srimanta Barua, Taleb Hirani, Brennan Hill, Brendan Saltaformaggio; [Forecasting Malware Capabilities From Cyber Attack Memory Images (pre-print)](/static/papers/alrawi_forecast_sec21.pdf), USENIX Security, August 2021. 
   * [code](https://github.com/CyFI-Lab-Public/Forecast)
-1. R. Duan, __O. Alrawi__, R. P Kasturi, R. Elder, B. Saltaformaggio, W. Lee. [Measuring and preventing supply chain attacks on package managers](/static/papers/supply-chain-NDSS21.pdf) To appear in NDSS 2021.
+1. R. Duan, __O. Alrawi__, R. P Kasturi, R. Elder, B. Saltaformaggio, W. Lee. [Towards Measuring Supply Chain Attacks on Package Managers for Interpreted Languages](/static/papers/supply-chain-NDSS21.pdf) To appear in NDSS 2021.
 
 3. R. Perdisci, T. Papastergiu, __O. Alrawi__, M. Antonakakis. [IoTFinder: Efficient Large-Scale Identification of IoT Devices via Passive DNS Traffic Analysis](/static/papers/IoTFinder-ESP20.pdf), EuroS&P, Septmber 2020
   * [data](https://yourthings.info/data)
