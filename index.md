@@ -25,7 +25,7 @@ Additionally, I am investigating malware threats affecting IoT, mobile apps, and
   * Award: $5,000/year
 
 ### Publication 
-1. __Omar Alrawi__, Charles Lever, Kevin Valakuzhy, Ryan Court, Kevin Snow, Fabian Monrose, Manos Antonakakis; [The Circle Of Life: A Large-Scale Study of The IoT Malware Lifecycle (pre-print)](/static/papers/alrawi_iot-malware_sec21.pdf), USENIX Security, August 2021.
+1. __Omar Alrawi__, Charles Lever, Kevin Valakuzhy, Ryan Court, Kevin Snow, Fabian Monrose, Manos Antonakakis; [The Circle Of Life: A Large-Scale Study of The IoT Malware Lifecycle](/static/papers/alrawi_iot-malware_sec21.pdf), USENIX Security, August 2021.
   * [website](https://badthings.info/)
 1. __Omar Alrawi__{::nomarkdown}*{:/}, Moses Ike{::nomarkdown}*{:/}, Matthew Pruett, Ranjita Pai Kasturi, Srimanta Barua, Taleb Hirani, Brennan Hill, Brendan Saltaformaggio; [Forecasting Malware Capabilities From Cyber Attack Memory Images](/static/papers/alrawi_forecast_sec21.pdf), USENIX Security, August 2021. 
   * [code](https://github.com/CyFI-Lab-Public/Forecast)
