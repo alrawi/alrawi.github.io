@@ -9,8 +9,9 @@ I work on the security of home-based IoT devices, mobile apps, cloud backends, a
 Additionally, I am investigating malware threats affecting IoT, mobile apps, and cloud backends.
 I am looking for tenure-track faculty job.
 If you think I would fit well in your department, please reach out.
-I am on the job market looking for tenure-track faculty position.
-If you think I would fit well in your department, please reach out.
+
+**I am on the job market this year (2022) looking for a tenure-track faculty position.
+If you think I would fit well in your department, please reach out.**
 
 ### Education
 - __Georgia Institute of Technology__, PhD in ECE (enrolled)
