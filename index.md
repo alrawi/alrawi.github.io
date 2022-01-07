@@ -7,6 +7,8 @@ layout: default
 I am an ECE Ph.D. ~~student~~ candidate at Georgia Tech advised by [Dr. Antonakakis](https://www.ece.gatech.edu/faculty-staff-directory/manos-antonakakis).
 I work on the security of home-based IoT devices, mobile apps, cloud backends, and network security using active and passive techniques. 
 Additionally, I am investigating malware threats affecting IoT, mobile apps, and cloud backends.
+I am looking for tenure-track faculty job.
+If you think I would fit well in your department, please reach out.
 
 ### Education
 - __Georgia Institute of Technology__, PhD in ECE (enrolled)
