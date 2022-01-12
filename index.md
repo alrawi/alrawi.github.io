@@ -3,15 +3,15 @@ layout: default
 ---
 #### [Curriculum Vitae (CV)](/static/oalrawi_cv.pdf)
 
+**I am on the job market this year (2022) looking for a tenure-track faculty position.
+If you think I would fit well in your department, please reach out.**
+
 ### About
 I am an ECE Ph.D. ~~student~~ candidate at Georgia Tech advised by [Dr. Antonakakis](https://www.ece.gatech.edu/faculty-staff-directory/manos-antonakakis).
 I work on the security of home-based IoT devices, mobile apps, cloud backends, and network security using active and passive techniques. 
 Additionally, I am investigating malware threats affecting IoT, mobile apps, and cloud backends.
 I am looking for tenure-track faculty job.
 If you think I would fit well in your department, please reach out.
-
-**I am on the job market this year (2022) looking for a tenure-track faculty position.
-If you think I would fit well in your department, please reach out.**
 
 ### Education
 - __Georgia Institute of Technology__, PhD in ECE (enrolled)
@@ -32,6 +32,7 @@ If you think I would fit well in your department, please reach out.**
 ### Publication 
 1. __Omar Alrawi__, Charles Lever, Kevin Valakuzhy, Ryan Court, Kevin Snow, Fabian Monrose, Manos Antonakakis; [The Circle Of Life: A Large-Scale Study of The IoT Malware Lifecycle](/static/papers/alrawi_iot-malware_sec21.pdf), USENIX Security, August 2021.
   * [website](https://badthings.info/)
+  * [APNIC Blog](https://blog.apnic.net/2021/12/23/preparing-for-the-next-large-scale-iot-botnet-attack/)
 1. __Omar Alrawi__{::nomarkdown}*{:/}, Moses Ike{::nomarkdown}*{:/}, Matthew Pruett, Ranjita Pai Kasturi, Srimanta Barua, Taleb Hirani, Brennan Hill, Brendan Saltaformaggio; [Forecasting Malware Capabilities From Cyber Attack Memory Images](/static/papers/alrawi_forecast_sec21.pdf), USENIX Security, August 2021. 
   * [code](https://github.com/CyFI-Lab-Public/Forecast)
 1. R. Duan, __O. Alrawi__, R. P Kasturi, R. Elder, B. Saltaformaggio, W. Lee. [Towards Measuring Supply Chain Attacks on Package Managers for Interpreted Languages](/static/papers/supply-chain-NDSS21.pdf) To appear in NDSS 2021.
