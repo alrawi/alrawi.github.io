@@ -6,7 +6,7 @@ layout: default
 **I am on the job market this year (2022) looking for a tenure-track faculty position.
 If you think I would fit well in your department, please reach out.**
 
-### About
+### About ([Google Scholar](https://scholar.google.com/citations?user=94a6cB4AAAAJ&hl=en), [Tiwtter](https://twitter.com/oalrawi), [LinkedIn](https://www.linkedin.com/in/oalrawi/))
 I am an ECE Ph.D. ~~student~~ candidate at Georgia Tech advised by [Dr. Antonakakis](https://www.ece.gatech.edu/faculty-staff-directory/manos-antonakakis).
 I work on the security of home-based IoT devices, mobile apps, cloud backends, and network security using active and passive techniques. 
 Additionally, I am investigating malware threats affecting IoT, mobile apps, and cloud backends.
