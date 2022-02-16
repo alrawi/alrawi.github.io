@@ -32,7 +32,7 @@ Additionally, I am investigating malware threats affecting IoT, mobile apps, and
   * [website](https://badthings.info/)
   * [APNIC Blog](https://blog.apnic.net/2021/12/23/preparing-for-the-next-large-scale-iot-botnet-attack/)
   * [slides](https://www.usenix.org/system/files/sec21_slides_alrawi-circle.pdf)
-  * [video)[https://www.youtube.com/watch?v=1XA-IVSGCoI]
+  * [video](https://www.youtube.com/watch?v=1XA-IVSGCoI)
 
 2. __Omar Alrawi__{::nomarkdown}*{:/}, Moses Ike{::nomarkdown}*{:/}, Matthew Pruett, Ranjita Pai Kasturi, Srimanta Barua, Taleb Hirani, Brennan Hill, Brendan Saltaformaggio; [Forecasting Malware Capabilities From Cyber Attack Memory Images](/static/papers/alrawi_forecast_sec21.pdf), USENIX Security, August 2021. (Acceptance rate 18.8%).
   * [code](https://github.com/CyFI-Lab-Public/Forecast)
