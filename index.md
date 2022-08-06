@@ -44,7 +44,7 @@ Additionally, I am investigating malware threats affecting IoT, mobile apps, and
 4. R. Perdisci, T. Papastergiu, __O. Alrawi__, M. Antonakakis. [IoTFinder: Efficient Large-Scale Identification of IoT Devices via Passive DNS Traffic Analysis](/static/papers/IoTFinder-ESP20.pdf), EuroS&P, Septmber 2020. (Acceptance rate 14.6%).
   * [data](https://yourthings.info/data)
 
-5. R. P Kasturi, Y. Sun, R. Duian, __O. Alrawi__, E. Asdar, V. Zhu, Y. Kwon, B. Saltaformaggio; [TARDIS: Rolling Back The Clock On CMS-Targeting Cyber Attacks](/static/papers/kasturi_tardis_sp20.pdf), IEEE S&P (Oakland), May 2020. (Acceptance rate 12.3%).
+5. R. P Kasturi, Y. Sun, R. Duan, __O. Alrawi__, E. Asdar, V. Zhu, Y. Kwon, B. Saltaformaggio; [TARDIS: Rolling Back The Clock On CMS-Targeting Cyber Attacks](/static/papers/kasturi_tardis_sp20.pdf), IEEE S&P (Oakland), May 2020. (Acceptance rate 12.3%).
 
 6. __Omar Alrawi__{::nomarkdown}*{:/}, Chaoshun Zuo{::nomarkdown}*{:/}, Ruian Duan, Ranjita Kasturi, Zhiqiang Lin, Brendan Saltaformaggio; [The Betrayal At Cloud City: An Empirical Analysis Of Cloud-Based Mobile Backends](/static/papers/alrawi_cloudcity_sec19.pdf), USENIX Security, August 2019. (Acceptance rate 16.2%).
   * [slides](/static/slides/USESEC_cloudcity_aug_19.pdf)
