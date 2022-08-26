@@ -27,6 +27,8 @@ Additionally, I am investigating malware threats affecting IoT, mobile apps, and
 ### Publication 
 1. __Omar Alrawi__{::nomarkdown}*{:/}, Athanasios Avgetidis{::nomarkdown}*{:/}, Kevin Valakuzhy, Charles Lever, Paul Burbage, Angelos Keromytis, Fabian Monrose, Manos Antonakakis; [Beyond The Gates: An Empirical Analysis of HTTP-Managed Password Stealers and Operators](#), to appear in USENIX Security, August 2023. (Acceptance rate: ??).
 
+1. Priyanka Dodia, Mashael Al Sabah, __Omar Alrawi__, Tao Wang; [Tor-based Malware Detection using Traffic Analysis](#), to appear in The ACM Conference on Computer and Communications Security (ACM CCS), November 2022. (Acceptance rate: ??).
+
 1. __Omar Alrawi__, Charles Lever, Kevin Valakuzhy, Ryan Court, Kevin Snow, Fabian Monrose, Manos Antonakakis; [The Circle Of Life: A Large-Scale Study of The IoT Malware Lifecycle](/static/papers/alrawi_iot-malware_sec21.pdf), USENIX Security, August 2021. (Acceptance rate 18.8%).
   * [website](https://badthings.info/)
   * [APNIC Blog](https://blog.apnic.net/2021/12/23/preparing-for-the-next-large-scale-iot-botnet-attack/)
