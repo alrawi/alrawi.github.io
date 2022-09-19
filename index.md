@@ -3,7 +3,7 @@ layout: default
 ---
 #### [Curriculum Vitae (CV)](/static/oalrawi_cv.pdf)
 
-### About ([Google Scholar](https://scholar.google.com/citations?user=94a6cB4AAAAJ&hl=en), [Twitter](https://twitter.com/oalrawi))
+### About ([Google Scholar](https://scholar.google.com/citations?user=94a6cB4AAAAJ&hl=en))
 I am an ECE Ph.D. ~~student~~ candidate at Georgia Tech advised by [Dr. Antonakakis](https://www.ece.gatech.edu/faculty-staff-directory/manos-antonakakis).
 I work on the security of home-based IoT devices, mobile apps, cloud backends, and network security using active and passive techniques. 
 Additionally, I am investigating malware threats affecting IoT, mobile apps, and cloud backends.
