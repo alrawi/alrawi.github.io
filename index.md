@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-#### [Curriculum Vitae (CV)](/static/oalrawi_cv.pdf)
 
 ### About ([Google Scholar](https://scholar.google.com/citations?user=94a6cB4AAAAJ&hl=en))
 I am a system and network security researcher. My research investigates vulnerabilities and threats at internet-scale for networked systems (IoT, Mobile, Cloud). My research applies empirical methods that bridge between end-host binary analysis and network vulnerability analysis to discover fundamental security flaws in deployed internet technologies. 
