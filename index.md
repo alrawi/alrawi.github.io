@@ -4,12 +4,10 @@ layout: default
 #### [Curriculum Vitae (CV)](/static/oalrawi_cv.pdf)
 
 ### About ([Google Scholar](https://scholar.google.com/citations?user=94a6cB4AAAAJ&hl=en))
-I am an ECE Ph.D. ~~student~~ candidate at Georgia Tech advised by [Dr. Antonakakis](https://www.ece.gatech.edu/faculty-staff-directory/manos-antonakakis).
-I work on the security of home-based IoT devices, mobile apps, cloud backends, and network security using active and passive techniques. 
-Additionally, I am investigating malware threats affecting IoT, mobile apps, and cloud backends.
+I am a system and network security researcher. My research investigates vulnerabilities and threats at internet-scale for networked systems (IoT, Mobile, Cloud). My research applies empirical methods that bridge between end-host binary analysis and network vulnerability analysis to discover fundamental security flaws in deployed internet technologies. 
 
 ### Education
-- __Georgia Institute of Technology__, PhD in ECE (enrolled)
+- __Georgia Institute of Technology__, PhD in ECE (2022)
 - __Purdue University__, Master's of Information Security (CERIAS) 2009
 - __Purdue University__, Bachelor of Science, Computer Science and Mathematics 2007
 
