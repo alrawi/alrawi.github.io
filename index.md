@@ -65,18 +65,9 @@ I am a system and network security researcher. My research investigates vulnerab
 
 8. R. Duan, A. Bijlani, Y. Ji, __O. Alrawi__, Y. Xiong, M. Ike, B. Saltaformaggio, W. Lee; [Automating Patching of Vulnerable Open-Source Software Versions in Application Binaries](/static/papers/duan_osspatch_ndss19.pdf), NDSS, Feb 2019. (Acceptance rate 17.1%).
 
-9. __Omar Alrawi__, Aziz Mohaisen; [Chains of Distrust: Towards Understanding Certificates Used for Signing Malicious Applications](/static/papers/malcert.pdf), WWW 2016 Companion, April 2016.
-10. Aziz Mohaisen, __Omar Alrawi__; [Behavior-based Automated Malware Analysis and Classification](/static/papers/15-cose.pdf), Elsevier Computers & Security, 2015.
-
-11. A Mohaisen, AG West, A Mankin, __O Alrawi__; [Chatter: Classifying Malware Families Using System Event Ordering.](/static/papers/chatter-tr.pdf)  IEEE CNS 2014.
-
-12. Aziz Mohaisen, __Omar Alrawi__; [AMAL: High-Fidelity, Behavior-based Automated Malware Analysis and Classification.](/static/papers/amal-wisa14.pdf)  WISA 2014. <span style="color:red">Best Paper Award</span>. 
+11. Aziz Mohaisen, __Omar Alrawi__; [AMAL: High-Fidelity, Behavior-based Automated Malware Analysis and Classification.](/static/papers/15-cose.pdf), Elsevier Computers & Security, 2015. 
 
 13. Aziz Mohaisen, __Omar Alrawi__,; [AV-Meter: An Evaluation of Antivirus Scans and Labels.](/static/papers/avmeter-dimva.pdf)  DIMVA 2014. (Acceptance rate 23.3%).
-
-14. Aziz Mohaisen, __Omar Alrawi__, Andrew G. West, and Allison Mankin; [Babble: Identifying Malware by Its Dialects.](/static/papers/babble-cns13.pdf)  IEEE CNS 2013.
-
-15. Aziz Mohaisen, __Omar Alrawi__, Matt Larson, and Danny McPherson; [Towards A Methodical Evaluation of Antivirus Scans and Labels.](/static/papers/wisa2013labels.pdf) WISA 2013.
 
 16. Aziz Mohaisen, __Omar Alrawi__; [Unveiling Zeus Automated Classification of Malware Samples.](/static/papers/unzeus_www13.pdf) WWW Workshops 2013.
 
