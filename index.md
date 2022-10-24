@@ -21,7 +21,7 @@ I am a system and network security researcher. My research investigates vulnerab
 - President Fellowship - 2016-2020
   * Award: $5,000/year
 
-### Publication 
+### Selected Publication 
 1. __Omar Alrawi__{::nomarkdown}*{:/}, Athanasios Avgetidis{::nomarkdown}*{:/}, Kevin Valakuzhy, Charles Lever, Paul Burbage, Angelos Keromytis, Fabian Monrose, Manos Antonakakis; [Beyond The Gates: An Empirical Analysis of HTTP-Managed Password Stealers and Operators](#), to appear in USENIX Security, August 2023. (Acceptance rate: ??).
 
 1. Aaron Faulkenberry, Athanasios Avgetidis, Zane Ma, __Omar Alrawi__, Charles Lever,  Panagiotis Kintis, Fabian Monrose, Angelos Keromytis, Manos Antonakakis; [View from Above: Exploring the Malware Ecosystem from Upper DNS Hierarchy](#), to appear in The Annual Computer Security Applications Conference (ACSAC), December 2022. (Acceptance rate: 24.1%).
