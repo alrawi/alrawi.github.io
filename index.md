@@ -22,11 +22,14 @@ I am a system and network security researcher. My research investigates vulnerab
   * Award: $5,000/year
 
 ### Selected Publication 
-1. __Omar Alrawi__{::nomarkdown}*{:/}, Athanasios Avgetidis{::nomarkdown}*{:/}, Kevin Valakuzhy, Charles Lever, Paul Burbage, Angelos Keromytis, Fabian Monrose, Manos Antonakakis; [Beyond The Gates: An Empirical Analysis of HTTP-Managed Password Stealers and Operators](/static/papers/alrawi_stealers_sec23.pdf), to appear in USENIX Security, August 2023. (Acceptance rate: 29%).
+1. Yufei Du, __Omar Alrawi__, Kevin Snow, Manos Antonakakis, 
+Fabian Monrose; [Improving Security Tasks Using Compiler Provenance Information Recovered At the Binary-Level](#), to appear in in The ACM Conference on Computer and Communications Security (CCS), November 2023. (Acceptance rate: ?%).
+   
+1. __Omar Alrawi__{::nomarkdown}*{:/}, Athanasios Avgetidis{::nomarkdown}*{:/}, Kevin Valakuzhy, Charles Lever, Paul Burbage, Angelos Keromytis, Fabian Monrose, Manos Antonakakis; [Beyond The Gates: An Empirical Analysis of HTTP-Managed Password Stealers and Operators](/static/papers/alrawi_stealers_sec23.pdf), in USENIX Security, August 2023. (Acceptance rate: 29%).
 
 1. Aaron Faulkenberry, Athanasios Avgetidis, Zane Ma, __Omar Alrawi__, Charles Lever,  Panagiotis Kintis, Fabian Monrose, Angelos Keromytis, Manos Antonakakis; [View from Above: Exploring the Malware Ecosystem from Upper DNS Hierarchy](/static/papers/view-from-above-acsac22.pdf), to appear in The Annual Computer Security Applications Conference (ACSAC), December 2022. (Acceptance rate: 24.1%).
 
-1. Priyanka Dodia, Mashael Al Sabah, __Omar Alrawi__, Tao Wang; [Exposing the Rat in the Tunnel: Using Traffic Analysis for Tor-based Malware Detection](/static/papers/tor-malware_ccs22.pdf), in The ACM Conference on Computer and Communications Security (ACM CCS), November 2022. (Acceptance rate: 18%).
+1. Priyanka Dodia, Mashael Al Sabah, __Omar Alrawi__, Tao Wang; [Exposing the Rat in the Tunnel: Using Traffic Analysis for Tor-based Malware Detection](/static/papers/tor-malware_ccs22.pdf), in The ACM Conference on Computer and Communications Security (CCS), November 2022. (Acceptance rate: 18%).
 
 1. __Omar Alrawi__, Charles Lever, Kevin Valakuzhy, Ryan Court, Kevin Snow, Fabian Monrose, Manos Antonakakis; [The Circle Of Life: A Large-Scale Study of The IoT Malware Lifecycle](/static/papers/alrawi_iot-malware_sec21.pdf), USENIX Security, August 2021. (Acceptance rate 18.8%).
   * [website](https://badthings.info/)
