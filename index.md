@@ -21,7 +21,7 @@ The overall goal of my research is to safeguard deployed internet and informatio
 - President Fellowship - 2016-2020
   * Award: $5,000/year
 
-### Selected Publication 
+### Selected Publications
 1. Yufei Du, __Omar Alrawi__, Kevin Snow, Manos Antonakakis, 
 Fabian Monrose; [Improving Security Tasks Using Compiler Provenance Information Recovered At the Binary-Level](#), to appear in in The ACM Conference on Computer and Communications Security (CCS), November 2023. (Acceptance rate: ?%).
    
