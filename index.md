@@ -6,7 +6,7 @@ layout: default
 The overall goal of my research is to safeguard deployed internet and information systems. My work seeks to understand fundamental security problems in emerging computing platforms through principled and rigorous engineering, focusing on solving important societal problems and advancing the underlying science of computer security. My research methods can be classified as evidence-based applied research informed by empirical data measurements of systems and networks. Specifically, I develop fundamental techniques for modeling, measuring, and applying machine learning to end-host program binary and network vulnerability analyses to gain a holistic security perspective.
 
 ### Education
-- __Georgia Institute of Technology__, PhD in ECE (2023) - [Dissertation](/static/ALRAWI-DISSERTATION-2023.pdf)
+- __Georgia Institute of Technology__, PhD in (ECE) 2023 - [Dissertation](/static/ALRAWI-DISSERTATION-2023.pdf)
 - __Purdue University__, Master's of Information Security (CERIAS) 2009
 - __Purdue University__, Bachelor of Science, Computer Science and Mathematics 2007
 
