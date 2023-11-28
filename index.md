@@ -23,7 +23,7 @@ The overall goal of my research is to improve software security. My work seeks t
 
 ### Selected Publications
 1. Yufei Du, __Omar Alrawi__, Kevin Snow, Manos Antonakakis, 
-Fabian Monrose; [Improving Security Tasks Using Compiler Provenance Information Recovered At the Binary-Level](#), to appear in in The ACM Conference on Computer and Communications Security (CCS), November 2023. (Acceptance rate: ?%).
+Fabian Monrose; [Improving Security Tasks Using Compiler Provenance Information Recovered At the Binary-Level](/static/papers/Comp-Prov_CCS23.pdf), to appear in in The ACM Conference on Computer and Communications Security (CCS), November 2023. (Acceptance rate: ?%).
    
 1. __Omar Alrawi__{::nomarkdown}*{:/}, Athanasios Avgetidis{::nomarkdown}*{:/}, Kevin Valakuzhy, Charles Lever, Paul Burbage, Angelos Keromytis, Fabian Monrose, Manos Antonakakis; [Beyond The Gates: An Empirical Analysis of HTTP-Managed Password Stealers and Operators](/static/papers/alrawi_stealers_sec23.pdf), in USENIX Security, August 2023. (Acceptance rate: 29%).
 
