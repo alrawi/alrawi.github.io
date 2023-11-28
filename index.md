@@ -3,7 +3,10 @@ layout: default
 ---
 
 ### About
-The overall goal of my research is to improve software security. My work seeks to understand fundamental software security problems in emerging computing platforms through principled and rigorous engineering, focusing on advancing the underlying science of computer security. My research methods can be classified as evidence-based applied research informed by empirical data measurements of systems and networks. Specifically, I develop fundamental techniques for modeling, measuring, and applying machine learning to end-host programs and network analyses to improve software security.
+My research interest lies in studying and improving software security through a principled and informed approach. 
+Specifically, I design research methods informed by system and network data measurements to assess the security of open-source software and binary programs.
+I use these empirical methods to study vulnerabilities and attacks on large-scale systems by combining network and program analyses.
+I aim to develop practical tools and principles to secure large-scale deployed systems that serve critical societal functions, such as medical and telecommunication systems.
 
 ### Education
 - __Georgia Institute of Technology__, PhD (ECE) 2023 - [Dissertation](/static/ALRAWI-DISSERTATION-2023.pdf)
