@@ -25,8 +25,11 @@ I aim to develop practical tools and principles to secure large-scale deployed s
   * Award: $5,000/year
 
 ### Selected Publications
+1. Runze Zhang, Mingxuan Yao, Haichuan Xu, __Omar Alrawi__, Jeman Park, Brendan Saltaformaggio; [Hitchhiking Vaccine: Enhancing Botnet Remediation With Remote Code Deployment Reuse](https://saltaformaggio.ece.gatech.edu/publications/zhang2025hitchhiking.pdf), In proceeding of 2025 Annual Network and Distributed System Security Symposium NDSS, San Diego, CA, 2025. (Acceptance rate: 16.1%).
+  * [News](https://www.techradar.com/pro/security/security-researchers-develop-automated-malware-removal-that-works-like-a-vaccine)
+
 1. Yufei Du, __Omar Alrawi__, Kevin Snow, Manos Antonakakis, 
-Fabian Monrose; [Improving Security Tasks Using Compiler Provenance Information Recovered At the Binary-Level](/static/papers/Comp-Prov_CCS23.pdf), to appear in in The ACM Conference on Computer and Communications Security (CCS), November 2023. (Acceptance rate: 20%).
+Fabian Monrose; [Improving Security Tasks Using Compiler Provenance Information Recovered At the Binary-Level](/static/papers/Comp-Prov_CCS23.pdf), in The ACM Conference on Computer and Communications Security (CCS), November 2023. (Acceptance rate: 20%).
    
 1. __Omar Alrawi__{::nomarkdown}*{:/}, Athanasios Avgetidis{::nomarkdown}*{:/}, Kevin Valakuzhy, Charles Lever, Paul Burbage, Angelos Keromytis, Fabian Monrose, Manos Antonakakis; [Beyond The Gates: An Empirical Analysis of HTTP-Managed Password Stealers and Operators](/static/papers/alrawi_stealers_sec23.pdf), in USENIX Security, August 2023. (Acceptance rate: 29%).
 
